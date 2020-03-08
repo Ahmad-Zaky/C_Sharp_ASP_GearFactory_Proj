@@ -1,0 +1,112 @@
+<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Game 1.Master.cs" Inherits="MyProject.Game" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html><head><title>main</title>
+
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+</head>
+<body topmargin="0" leftmargin="0" style="color: rgb(255, 255, 255); background-color: rgb(33, 36, 33);" alink="#ffffff" link="#ffffff" marginheight="0" marginwidth="0" vlink="#ffffff">
+    <form id="form1" runat="server">
+<font face="Arial" size="1">
+<!-- ImageReady Slices (main.psd) --></font>
+<div align="center">
+<table border="0" cellpadding="0" cellspacing="0" width="780">
+<tbody>
+<tr>
+<td colspan="8"> <font face="Arial" size="1"> <img src="images/image_01.gif" alt="" height="49" width="780"></font></td>
+</tr>
+<tr>
+<td colspan="8"> <font face="Arial" size="1"> <img src="images/image_02.gif" alt="" height="97" width="780"></font></td>
+</tr>
+<tr>
+<td colspan="8"> <font face="Arial" size="1"> <img src="images/image_03.gif" alt="" height="42" width="780"></font></td>
+</tr>
+<tr>
+<td rowspan="8"> <font face="Arial" size="1"> <img src="images/image_04.gif" alt="" height="399" width="9"></font></td>
+<td colspan="3"> <font face="Arial" size="1"> <img src="images/image_05.gif" alt="" height="36" width="169"></font></td>
+<td colspan="3">
+<div style="position: absolute; width: 590px; height: 356px; z-index: 1; left: 369px; top: 185px;" 
+        id="layer1">
+<table id="table1" border="0" width="100%">
+<tbody>
+<tr>
+<td colspan="3"> <font face="Arial" size="1"> <img src="images/image_06.gif" border="0" height="36" width="589"></font></td>
+</tr>
+<tr>
+<td background="images/image_11.gif" height="57" width="2%"></td>
+<td height="57" width="93%">
+    <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+    </asp:ContentPlaceHolder>
+</td>
+<td rowspan="2" background="images/image_13.gif" height="57" width="3%"></td>
+</tr>
+<tr>
+<td colspan="3"> <font face="Arial" size="1"> <img src="images/image_30.gif" border="0" height="43" width="589"></font></td>
+</tr>
+</tbody>
+</table>
+</div>
+</td>
+<td rowspan="7"> <font face="Arial" size="1"> <img src="images/image_07.gif" alt="" height="382" width="13"></font></td>
+</tr>
+<tr>
+<td background="images/image_08.gif"> </td>
+<td> <font face="Arial" size="2">
+<asp:HyperLink ID="HyperLink1" runat="server" NavigateUrl="~/Home.aspx">Home</asp:HyperLink>
+   <br />
+<asp:HyperLink ID="HyperLink2" runat="server" NavigateUrl="~/About 1.aspx">About Us</asp:HyperLink>
+    <br />
+<asp:HyperLink ID="HyperLink3" runat="server" NavigateUrl="~/Contact 1.aspx">Contact Us</asp:HyperLink>
+<br />
+
+    <asp:HyperLink ID="HyperLink5" runat="server" NavigateUrl="~/Login User.aspx">Login</asp:HyperLink>
+
+    </font>
+</td>
+<td background="images/image_10.gif"> </td>
+</tr>
+<tr>
+<td colspan="3"> <font face="Arial" size="1" style="direction: ltr"> <img src="images/image_14.gif" alt="" height="33" width="169"></font></td>
+</tr>
+<tr>
+<td colspan="3"> <font face="Arial" size="1"> <img src="images/image_15.gif" alt="" height="40" width="169"></font></td>
+</tr>
+<tr>
+<td background ="images/image_16.gif"> </td>
+<td> <font face="Arial" size="2">
+<asp:HyperLink ID="HyperLink4" runat="server" NavigateUrl="~/Downloads.aspx">Downloads</asp:HyperLink>
+    <br>
+ </font></td>
+<td background="images/image_18.gif"> </td>
+</tr>
+<tr>
+<td colspan="3"> <font face="Arial" size="1"> <img src="images/image_19.gif" alt="" height="33" width="169"></font></td>
+</tr>
+<tr>
+<td colspan="3"> <font face="Arial" size="1"> <img src="images/image_29.gif" alt="" height="43" width="169"></font></td>
+</tr>
+<tr>
+<td> <font face="Arial" size="1"> <img src="images/image_31.gif" alt="" height="17" width="21"></font></td>
+<td> <font face="Arial" size="1"> <img src="images/image_32.gif" alt="" height="17" width="133"></font></td>
+<td> <font face="Arial" size="1"> <img src="images/image_33.gif" alt="" height="17" width="15"></font></td>
+<td> <font face="Arial" size="1"> <img src="images/image_34.gif" alt="" height="17" width="13"></font></td>
+<td> <font face="Arial" size="1"> <img src="images/image_35.gif" alt="" height="17" width="563"></font></td>
+<td> <font face="Arial" size="1"> <img src="images/image_36.gif" alt="" height="17" width="13"></font></td>
+<td> <font face="Arial" size="1"> <img src="images/image_37.gif" alt="" height="17" width="13"></font></td>
+</tr>
+<tr>
+<td colspan="4"> <font face="Arial" size="1"> <img src="images/image_38.gif" alt="" height="13" width="178"></font></td>
+<td colspan="4"> <font face="Arial" size="1"> <img src="images/image_39.gif" alt="" height="13" width="602"></font></td>
+</tr>
+</tbody>
+</table>
+</div>
+<font face="Arial" size="1">
+<!-- End ImageReady Slices --></font>
+<div style="font-size: 0.8em; text-align: center; margin-top: 1em; margin-bottom: 1em;">Design
+provided by <a href="http://www.freewebtemplates.com/">Free
+Web Templates</a> - your source for free website templates<br>Supported by <a href="http://www.hosting24.com/" target="_blank">Hosting24.com</a>
+</div>
+    </form>
+</body></html>
