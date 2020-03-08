@@ -1,0 +1,61 @@
+c:\users\psc\documents\visual studio 2010\Projects\GearFactory\GearFactory\bin\Debug\GearFactory.exe.config
+c:\users\psc\documents\visual studio 2010\Projects\GearFactory\GearFactory\bin\Debug\GearFactory.exe
+c:\users\psc\documents\visual studio 2010\Projects\GearFactory\GearFactory\bin\Debug\GearFactory.pdb
+c:\users\psc\documents\visual studio 2010\Projects\GearFactory\GearFactory\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\psc\documents\visual studio 2010\Projects\GearFactory\GearFactory\obj\x86\Debug\GearFactory.Home.resources
+c:\users\psc\documents\visual studio 2010\Projects\GearFactory\GearFactory\obj\x86\Debug\GearFactory.Properties.Resources.resources
+c:\users\psc\documents\visual studio 2010\Projects\GearFactory\GearFactory\obj\x86\Debug\GearFactory.SignUp.resources
+c:\users\psc\documents\visual studio 2010\Projects\GearFactory\GearFactory\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\psc\documents\visual studio 2010\Projects\GearFactory\GearFactory\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\psc\documents\visual studio 2010\Projects\GearFactory\GearFactory\obj\x86\Debug\GearFactory.exe
+c:\users\psc\documents\visual studio 2010\Projects\GearFactory\GearFactory\obj\x86\Debug\GearFactory.pdb
+c:\users\psc\documents\visual studio 2010\Projects\GearFactory\GearFactory\obj\x86\Debug\GearFactory.A_Customers.resources
+c:\users\psc\documents\visual studio 2010\Projects\GearFactory\GearFactory\obj\x86\Debug\GearFactory.A_Department.resources
+c:\users\psc\documents\visual studio 2010\Projects\GearFactory\GearFactory\obj\x86\Debug\GearFactory.A_Employees.resources
+c:\users\psc\documents\visual studio 2010\Projects\GearFactory\GearFactory\obj\x86\Debug\GearFactory.A_GearKnife.resources
+c:\users\psc\documents\visual studio 2010\Projects\GearFactory\GearFactory\obj\x86\Debug\GearFactory.A_GearsProducts.resources
+c:\users\psc\documents\visual studio 2010\Projects\GearFactory\GearFactory\obj\x86\Debug\GearFactory.A_Invoices.resources
+c:\users\psc\documents\visual studio 2010\Projects\GearFactory\GearFactory\obj\x86\Debug\GearFactory.A_Machines.resources
+c:\users\psc\documents\visual studio 2010\Projects\GearFactory\GearFactory\obj\x86\Debug\GearFactory.A_OrderDetails_W.resources
+C:\Users\PSC\Documents\Visual Studio 2010\Projects\GearFactory\GearFactory\obj\x86\Debug\GearFactory.Menue.resources
+C:\Users\PSC\Documents\Visual Studio 2010\Projects\GearFactory\GearFactory\obj\x86\Debug\GearFactory.Log_File.resources
+C:\Users\tarek\Desktop\gear factory\GearFactory\GearFactory\bin\Debug\GearFactory.exe.config
+C:\Users\tarek\Desktop\gear factory\GearFactory\GearFactory\obj\x86\Debug\GearFactory.exe
+C:\Users\tarek\Desktop\gear factory\GearFactory\GearFactory\obj\x86\Debug\GearFactory.pdb
+C:\Users\tarek\Desktop\gear factory\GearFactory\GearFactory\bin\Debug\GearFactory.exe
+C:\Users\tarek\Desktop\gear factory\GearFactory\GearFactory\bin\Debug\GearFactory.pdb
+C:\Users\tarek\Desktop\gear factory\GearFactory\GearFactory\obj\x86\Debug\GearFactory.A_Customers.resources
+C:\Users\tarek\Desktop\gear factory\GearFactory\GearFactory\obj\x86\Debug\GearFactory.A_Department.resources
+C:\Users\tarek\Desktop\gear factory\GearFactory\GearFactory\obj\x86\Debug\GearFactory.A_Employees.resources
+C:\Users\tarek\Desktop\gear factory\GearFactory\GearFactory\obj\x86\Debug\GearFactory.A_GearKnife.resources
+C:\Users\tarek\Desktop\gear factory\GearFactory\GearFactory\obj\x86\Debug\GearFactory.A_GearsProducts.resources
+C:\Users\tarek\Desktop\gear factory\GearFactory\GearFactory\obj\x86\Debug\GearFactory.A_Invoices.resources
+C:\Users\tarek\Desktop\gear factory\GearFactory\GearFactory\obj\x86\Debug\GearFactory.A_Machines.resources
+C:\Users\tarek\Desktop\gear factory\GearFactory\GearFactory\obj\x86\Debug\GearFactory.A_OrderDetails_W.resources
+C:\Users\tarek\Desktop\gear factory\GearFactory\GearFactory\obj\x86\Debug\GearFactory.Home.resources
+C:\Users\tarek\Desktop\gear factory\GearFactory\GearFactory\obj\x86\Debug\GearFactory.Log_File.resources
+C:\Users\tarek\Desktop\gear factory\GearFactory\GearFactory\obj\x86\Debug\GearFactory.Menue.resources
+C:\Users\tarek\Desktop\gear factory\GearFactory\GearFactory\obj\x86\Debug\GearFactory.Properties.Resources.resources
+C:\Users\tarek\Desktop\gear factory\GearFactory\GearFactory\obj\x86\Debug\GearFactory.SignUp.resources
+C:\Users\tarek\Desktop\gear factory\GearFactory\GearFactory\obj\x86\Debug\GearFactory.csproj.GenerateResource.Cache
+C:\Users\PSC\Desktop\SecondTerm Modify\System Analysis\Sec\Project Gear Factory\C# Project\New Version\GearFactory\bin\Debug\GearFactory.exe.config
+C:\Users\PSC\Desktop\SecondTerm Modify\System Analysis\Sec\Project Gear Factory\C# Project\New Version\GearFactory\obj\x86\Debug\GearFactory.exe
+C:\Users\PSC\Desktop\SecondTerm Modify\System Analysis\Sec\Project Gear Factory\C# Project\New Version\GearFactory\obj\x86\Debug\GearFactory.pdb
+C:\Users\PSC\Desktop\SecondTerm Modify\System Analysis\Sec\Project Gear Factory\C# Project\New Version\GearFactory\bin\Debug\GearFactory.exe
+C:\Users\PSC\Desktop\SecondTerm Modify\System Analysis\Sec\Project Gear Factory\C# Project\New Version\GearFactory\bin\Debug\GearFactory.pdb
+C:\Users\PSC\Desktop\SecondTerm Modify\System Analysis\Sec\Project Gear Factory\C# Project\New Version\GearFactory\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\PSC\Desktop\SecondTerm Modify\System Analysis\Sec\Project Gear Factory\C# Project\New Version\GearFactory\obj\x86\Debug\GearFactory.A_Customers.resources
+C:\Users\PSC\Desktop\SecondTerm Modify\System Analysis\Sec\Project Gear Factory\C# Project\New Version\GearFactory\obj\x86\Debug\GearFactory.A_Department.resources
+C:\Users\PSC\Desktop\SecondTerm Modify\System Analysis\Sec\Project Gear Factory\C# Project\New Version\GearFactory\obj\x86\Debug\GearFactory.A_Employees.resources
+C:\Users\PSC\Desktop\SecondTerm Modify\System Analysis\Sec\Project Gear Factory\C# Project\New Version\GearFactory\obj\x86\Debug\GearFactory.A_GearKnife.resources
+C:\Users\PSC\Desktop\SecondTerm Modify\System Analysis\Sec\Project Gear Factory\C# Project\New Version\GearFactory\obj\x86\Debug\GearFactory.A_GearsProducts.resources
+C:\Users\PSC\Desktop\SecondTerm Modify\System Analysis\Sec\Project Gear Factory\C# Project\New Version\GearFactory\obj\x86\Debug\GearFactory.A_Invoices.resources
+C:\Users\PSC\Desktop\SecondTerm Modify\System Analysis\Sec\Project Gear Factory\C# Project\New Version\GearFactory\obj\x86\Debug\GearFactory.A_Machines.resources
+C:\Users\PSC\Desktop\SecondTerm Modify\System Analysis\Sec\Project Gear Factory\C# Project\New Version\GearFactory\obj\x86\Debug\GearFactory.A_OrderDetails_W.resources
+C:\Users\PSC\Desktop\SecondTerm Modify\System Analysis\Sec\Project Gear Factory\C# Project\New Version\GearFactory\obj\x86\Debug\GearFactory.Home.resources
+C:\Users\PSC\Desktop\SecondTerm Modify\System Analysis\Sec\Project Gear Factory\C# Project\New Version\GearFactory\obj\x86\Debug\GearFactory.Log_File.resources
+C:\Users\PSC\Desktop\SecondTerm Modify\System Analysis\Sec\Project Gear Factory\C# Project\New Version\GearFactory\obj\x86\Debug\GearFactory.Menue.resources
+C:\Users\PSC\Desktop\SecondTerm Modify\System Analysis\Sec\Project Gear Factory\C# Project\New Version\GearFactory\obj\x86\Debug\GearFactory.Properties.Resources.resources
+C:\Users\PSC\Desktop\SecondTerm Modify\System Analysis\Sec\Project Gear Factory\C# Project\New Version\GearFactory\obj\x86\Debug\GearFactory.SignUp.resources
+C:\Users\PSC\Desktop\SecondTerm Modify\System Analysis\Sec\Project Gear Factory\C# Project\New Version\GearFactory\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\PSC\Desktop\SecondTerm Modify\System Analysis\Sec\Project Gear Factory\C# Project\New Version\GearFactory\obj\x86\Debug\GenerateResource.write.1.tlog
